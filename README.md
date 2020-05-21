@@ -6,7 +6,7 @@ Dell CCTK files to be stored on a server
 
 
 
-Scheduled Task
+SCHEDULED TASK SETTINGS
 
 GENERAL
 
